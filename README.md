@@ -5,6 +5,3 @@ Inicial github
 </p>
 
 <a href="https://github.com/jm-ti" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jm-ti&langs_count=10&title_color=64748b&text_color=6366f1&icon_color=444e59&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Linguages" /></a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-</p>
